@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **claudiagonzalez1339@gmail.com**
 
