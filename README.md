@@ -39,6 +39,6 @@
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="xd" width="40" height="40"/> </a>  
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);"  src="https://github.com/skandog/assets/blob/main/express-white.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiagonzalez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="claudiagonzalez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClaudiaGC1339&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="claudiagonzalez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiagonzalez&show_icons=true&locale=en&theme=tokyonight" alt="claudiagonzalez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ClaudiaGC1339&show_icons=true&locale=en&theme=tokyonight" alt="claudiagonzalez" /></p>
