@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Video game development**
 
 - 📫 How to reach me **claudiagonzalez1339@gmail.com**
 
-- ⚡ Fun fact **I am a big Video Game fan!**
+- ⚡ Fun fact **I'm spanish!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
